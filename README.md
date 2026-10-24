@@ -37,12 +37,20 @@ to understand.
 
 ## 🛠️ My Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://api.iconify.design/mdi/aws.svg?color=%23FF9900)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<div align="center">
+
+  <img src="https://api.iconify.design/logos/python.svg" width="80" height="80" alt="Python" title="Python"/>
+  <img src="https://api.iconify.design/logos/r-lang.svg" width="80" height="80" alt="R" title="R"/>
+  <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="80" height="80" alt="SQL" title="SQL"/>
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="80" height="80" alt="Power BI" title="Power BI"/>
+  <img src="https://api.iconify.design/mdi/aws.svg?color=%23FF9900" width="80" height="80" alt="AWS" title="AWS"/>
+  <img src="https://api.iconify.design/logos/git-icon.svg" width="80" height="80" alt="Git" title="Git"/>
+
+</div>
+
 
 ---
 
@@ -70,6 +78,4 @@ and BERT.
 I'm interested in opportunities across
 Data Analytics, AI and research.
 
-Explore my [Portfolio](https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/)
-or connect with me on [LinkedIn](https://www.linkedin.com/in/susark/).
-# ReadMEE
+Explore my [Email](https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/)
