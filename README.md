@@ -42,12 +42,12 @@ to understand.
 
 <div align="center">
 
-  <img src="https://api.iconify.design/logos/python.svg" width="80" height="80" alt="Python" title="Python"/>
-  <img src="https://api.iconify.design/logos/r-lang.svg" width="80" height="80" alt="R" title="R"/>
-  <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="80" height="80" alt="SQL" title="SQL"/>
-  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="80" height="80" alt="Power BI" title="Power BI"/>
-  <img src="https://api.iconify.design/mdi/aws.svg?color=%23FF9900" width="80" height="80" alt="AWS" title="AWS"/>
-  <img src="https://api.iconify.design/logos/git-icon.svg" width="80" height="80" alt="Git" title="Git"/>
+  <img src="https://api.iconify.design/logos/python.svg" width="80" height="50" alt="Python" title="Python"/>
+  <img src="https://api.iconify.design/logos/r-lang.svg" width="80" height="50" alt="R" title="R"/>
+  <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="50" height="80" alt="SQL" title="SQL"/>
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="50" height="80" alt="Power BI" title="Power BI"/>
+  <img src="https://api.iconify.design/mdi/aws.svg?color=%23FF9900" width="50" height="80" alt="AWS" title="AWS"/>
+  <img src="https://api.iconify.design/logos/git-icon.svg" width="80" height="50" alt="Git" title="Git"/>
 
 </div>
 
@@ -78,4 +78,4 @@ and BERT.
 I'm interested in opportunities across
 Data Analytics, AI and research.
 
-Explore my [Email](https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/)
+📧 Contact me: [Email Me](mailto:suranjana.sarkar@kedgebs.com)
