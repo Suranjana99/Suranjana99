@@ -9,17 +9,8 @@
 
 ### Turning data into meaningful insights 🚀
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge)](https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/susark/) -->
-<a href="https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/"
-   target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/susark/"
-   target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge)](https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/susark/)
 
 </div>
 
@@ -87,4 +78,4 @@ and BERT.
 I'm interested in opportunities across
 Data Analytics, AI and research.
 
-📧 Contact me: [Email + Phone Number : +33748373005](mailto:suranjana.sarkar@kedgebs.com) 
+📧 Contact me: [Email](mailto:suranjana.sarkar@kedgebs.com)  +  Phone Number : +33748373005
