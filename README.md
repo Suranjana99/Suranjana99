@@ -48,6 +48,9 @@ to understand.
   <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="50" height="50" alt="Power BI" title="Power BI"/>
   <img src="https://api.iconify.design/mdi/aws.svg?color=%23FF9900" width="50" height="50" alt="AWS" title="AWS"/>
   <img src="https://api.iconify.design/logos/git-icon.svg" width="50" height="50" alt="Git" title="Git"/>
+  <img src="https://api.iconify.design/hugeicons/ai-brain-01.svg?color=%239C72FF" width="50" height="50" alt="AI" title="Artificial Intelligence"/>
+  <img src="https://api.iconify.design/carbon/machine-learning.svg?color=%2300BFA5" width="50" height="50" alt="ML" title="Machine Learning"/>
+  <img src="https://api.iconify.design/mdi-light/chart-histogram.svg?color=%23F5A623" width="50" height="50" alt="Statistics" title="Statistics"/>
 
 </div>
 
