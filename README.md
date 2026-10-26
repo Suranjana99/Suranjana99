@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+BI+Developer;Python+%7C+SQL+%7C+R;Exploring+Data+,+AI+and+Data+Visualisation)](https://git.io/typing-svg)
 
-### Turning data into meaningful insights 🚀
+### Exploring Data quality and learning easy way to analyse 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge)](https://suranjana99.github.io/Suranjana-Sarkar-Data-Analytics-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/susark/)
@@ -29,7 +29,7 @@ to understand.
 
 🧬 Currently exploring Bioinformatics, RNA-seq and sequential analysis
 
-📊 Improving at data visualisation
+📊 Improving my data visualisation knowledge.
 
 🌍🗼 Based in Paris, France 
 
@@ -38,7 +38,7 @@ to understand.
 ## 🛠️ My Tech Stack
 
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+<!-- <h2 align="center">🛠️ My Tech Stack</h2> -->
 
 <div align="center">
 
